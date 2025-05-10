@@ -121,41 +121,6 @@ func main() {
 </div>
 <br>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-
-<a href="https://github.com/lakshyajain-0291/GitCury">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshyajain-0291&repo=GitCury&theme=react&border_color=61dafb&border_radius=10" />
-</a>
-
-<a href="https://github.com/DALDA-IITJ/libr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DALDA-IITJ&repo=libr&theme=react&border_color=61dafb&border_radius=10" />
-</a>
-
-
-<a href="https://github.com/lakshyajain-0291/GenCLI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshyajain-0291&repo=GenCLI&theme=react&border_color=61dafb&border_radius=10" />
-</a>
-
-
-<a href="https://github.com/lakshyajain-0291/RealmWeaver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshyajain-0291&repo=RealmWeaver&theme=react&border_color=61dafb&border_radius=10" />
-</a>
-
-<a href="https://github.com/lakshyajain-0291/Vindication">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lakshyajain-0291&repo=Vindication&theme=react&border_color=61dafb&border_radius=10" />
-</a>
-
-<a href="https://github.com/devlup-labs/travel_companion">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devlup-labs&repo=travel_companion&theme=react&border_color=61dafb&border_radius=10" />
-</a>
-
-</div>
-
-<br>
-
 <div align="center">
 
 ### 🌟 Let's Connect!
